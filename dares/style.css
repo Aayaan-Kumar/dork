@@ -126,5 +126,6 @@ body {
 
     .container .bottom .credit {
         font-size: 10px;
+        max-width: 80px;
     }
 }
